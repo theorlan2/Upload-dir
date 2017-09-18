@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<autoschedule version="1.0" group="LocalStorageGroup">
+  <scheduledPresentation>
+    <presentationToSchedule>
+      <name>SmartView-Demo-1</name>
+      <fileName>SmartView-Demo-1.bpf</fileName>
+      <filePath>C:\Users\Reymi\Documents\En Proceso\SmartViu\Presentations\SmartView-Demo-1.bpf</filePath>
+    </presentationToSchedule>
+    <dateTime>2017-06-25T00:00:00</dateTime>
+    <duration>1440</duration>
+    <allDayEveryDay>True</allDayEveryDay>
+    <recurrence>False</recurrence>
+    <recurrencePattern>Daily</recurrencePattern>
+    <recurrencePatternDaily>EveryDay</recurrencePatternDaily>
+    <recurrencePatternDaysOfWeek>1</recurrencePatternDaysOfWeek>
+    <recurrenceStartDate>2017-06-25T00:00:00</recurrenceStartDate>
+    <recurrenceGoesForever>True</recurrenceGoesForever>
+    <recurrenceEndDate>2018-06-25T00:00:00</recurrenceEndDate>
+    <interruption>False</interruption>
+  </scheduledPresentation>
+</autoschedule>

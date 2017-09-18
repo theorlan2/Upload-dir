@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sync version="1.0" name="Simple Networking">
+  <meta>
+    <client>
+      <limitStorageSpace>False</limitStorageSpace>
+      <base>http://www.smartviu.com/contents</base>
+      <next>/current-sync.xml</next>
+      <event>EVENT</event>
+      <error>ERROR</error>
+      <deviceerror>DEVICEERROR</deviceerror>
+      <uploadusage>UPLOADUSAGE</uploadusage>
+      <getfile>GETFILE</getfile>
+      <uploadlogs />
+      <uploadsnapshots />
+      <timeBetweenNetConnects>70</timeBetweenNetConnects>
+      <contentDownloadsRestricted>no</contentDownloadsRestricted>
+      <playbackLoggingEnabled>no</playbackLoggingEnabled>
+      <eventLoggingEnabled>no</eventLoggingEnabled>
+      <diagnosticLoggingEnabled>yes</diagnosticLoggingEnabled>
+      <stateLoggingEnabled>yes</stateLoggingEnabled>
+      <variableLoggingEnabled>no</variableLoggingEnabled>
+      <uploadLogFilesAtBoot>no</uploadLogFilesAtBoot>
+      <uploadLogFilesAtSpecificTime>no</uploadLogFilesAtSpecificTime>
+      <uploadLogFilesTime>0</uploadLogFilesTime>
+      <enableSerialDebugging>False</enableSerialDebugging>
+      <enableSystemLogDebugging>False</enableSystemLogDebugging>
+      <deviceScreenShotsEnabled>no</deviceScreenShotsEnabled>
+    </client>
+    <server>
+      <account>ACCOUNT</account>
+      <user />
+      <password />
+      <enableUnsafeAuthentication>False</enableUnsafeAuthentication>
+      <group>GROUPNAME</group>
+    </server>
+  </meta>
+  <files>
+    <download>
+      <name>autoplay-SmartView-Demo-1.xml</name>
+      <hash method="SHA1">ade1c9d0145991af7710b9d7b7fd1aa7714a710f</hash>
+      <size>17748</size>
+      <link>http://www.smartviu.com/contents/pool/0/f/sha1-ade1c9d0145991af7710b9d7b7fd1aa7714a710f</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>SmartView-Demo-1.bml</name>
+      <hash method="SHA1">f99adbd7779ab585ca55a348c89f94799bc4355f</hash>
+      <size>11794</size>
+      <link>http://www.smartviu.com/contents/pool/5/f/sha1-f99adbd7779ab585ca55a348c89f94799bc4355f</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>FITChannel_CollageAE_mp4.mp4</name>
+      <hash method="SHA1">4589b9758e9d409d170b0b089c5cedff95ad74b9</hash>
+      <size>9770855</size>
+      <link>http://www.smartviu.com/contents/pool/b/9/sha1-4589b9758e9d409d170b0b089c5cedff95ad74b9</link>
+      <probe>9|TT=MP4|IX=Y|AP=9|AC=AAC|ACH=9|ASR=44100|AD=000079cf|VP=1|VC=H974|W=1980|H=790|VD=000079c0|CD=0|VFR=95.000000|D=000079d0|FT=00000000</probe>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>Smart_Viu-standby_video1-mp4.mp4</name>
+      <hash method="SHA1">457b1d3fd9ff4037919d5059d9b84900e083d178</hash>
+      <size>11909804</size>
+      <link>http://www.smartviu.com/contents/pool/7/8/sha1-457b1d3fd9ff4037919d5059d9b84900e083d178</link>
+      <probe>9|TT=MP4|IX=Y|VP=1|VC=H974|W=1980|H=790|VD=00007551|CD=0|VFR=30.000334|D=00007559|FT=00000000</probe>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>static_pic9.jpg</name>
+      <hash method="SHA1">c85f95441e9781c8497efaf40d81b70577b0499f</hash>
+      <size>319999</size>
+      <link>http://www.smartviu.com/contents/pool/9/f/sha1-c85f95441e9781c8497efaf40d81b70577b0499f</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>static_pic1.jpg</name>
+      <hash method="SHA1">9d09045098e7e744dd3ab9ae97c3fdd799ce5a49</hash>
+      <size>174998</size>
+      <link>http://www.smartviu.com/contents/pool/4/9/sha1-9d09045098e7e744dd3ab9ae97c3fdd799ce5a49</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-404.html</name>
+      <hash method="SHA1">740fc97551a99aba077ff447fd3f8973c788e9d7</hash>
+      <size>3393</size>
+      <link>http://www.smartviu.com/contents/pool/d/7/sha1-740fc97551a99aba077ff447fd3f8973c788e9d7</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-bas.html</name>
+      <hash method="SHA1">8899e9dbe1a4b7399b9a18fa91830d9d1934ec48</hash>
+      <size>878</size>
+      <link>http://www.smartviu.com/contents/pool/4/8/sha1-8899e9dbe1a4b7399b9a18fa91830d9d1934ec48</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-favicon.ico</name>
+      <hash method="SHA1">a1bae7f0517a57cf140aa7177e9559418fe8f85e</hash>
+      <size>1150</size>
+      <link>http://www.smartviu.com/contents/pool/5/e/sha1-a1bae7f0517a57cf140aa7177e9559418fe8f85e</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-index.html</name>
+      <hash method="SHA1">87d1eb7a87ba98bfa8008f10be7137fb0ed15e0c</hash>
+      <size>901</size>
+      <link>http://www.smartviu.com/contents/pool/0/c/sha1-87d1eb7a87ba98bfa8008f10be7137fb0ed15e0c</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-robots.txt</name>
+      <hash method="SHA1">3ab05778bd908347af977df97717571b5f950c98</hash>
+      <size>31</size>
+      <link>http://www.smartviu.com/contents/pool/9/8/sha1-3ab05778bd908347af977df97717571b5f950c98</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.eot</name>
+      <hash method="SHA1">f3a9a3b709133c3d91d7b49abbf7f43bd111df79</hash>
+      <size>90335</size>
+      <link>http://www.smartviu.com/contents/pool/7/9/sha1-f3a9a3b709133c3d91d7b49abbf7f43bd111df79</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.svg</name>
+      <hash method="SHA1">77b1fc77e37d01ee45ca75c4eefb144d9dbe98fa</hash>
+      <size>79997</size>
+      <link>http://www.smartviu.com/contents/pool/f/a/sha1-77b1fc77e37d01ee45ca75c4eefb144d9dbe98fa</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.ttf</name>
+      <hash method="SHA1">aafafdc09404c4aa4447d7e898a9183def9cc1b1</hash>
+      <size>41980</size>
+      <link>http://www.smartviu.com/contents/pool/b/1/sha1-aafafdc09404c4aa4447d7e898a9183def9cc1b1</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.woff</name>
+      <hash method="SHA1">99037a3455914e5779fa51a597777bdb399e9c5c</hash>
+      <size>93390</size>
+      <link>http://www.smartviu.com/contents/pool/5/c/sha1-99037a3455914e5779fa51a597777bdb399e9c5c</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-html/landing/landing.html</name>
+      <hash method="SHA1">f71be1e9fc8dc38cadb5e3cbf8fcad4f7378a9e0</hash>
+      <size>887</size>
+      <link>http://www.smartviu.com/contents/pool/e/0/sha1-f71be1e9fc8dc38cadb5e3cbf8fcad4f7378a9e0</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-html/remote-snapshot/configure-snapshots.html</name>
+      <hash method="SHA1">19aebb30bc487d5ce7b7ff009d7e9f1747dddcfe</hash>
+      <size>4917</size>
+      <link>http://www.smartviu.com/contents/pool/f/e/sha1-19aebb30bc487d5ce7b7ff009d7e9f1747dddcfe</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-html/remote-snapshot/view-snapshots.html</name>
+      <hash method="SHA1">1bfae55189a797ae5b7daa90e57c09534319b951</hash>
+      <size>9943</size>
+      <link>http://www.smartviu.com/contents/pool/5/1/sha1-1bfae55189a797ae5b7daa90e57c09534319b951</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-images/bg_main_background.ec008440.png</name>
+      <hash method="SHA1">af0bc48cf35bfaee4f91f99a8e48594fa514ee8f</hash>
+      <size>98</size>
+      <link>http://www.smartviu.com/contents/pool/8/f/sha1-af0bc48cf35bfaee4f91f99a8e48594fa514ee8f</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-images/bs-logo.558b3959.png</name>
+      <hash method="SHA1">19940f187709ea1cbf798c3787f75e1bcb977987</hash>
+      <size>9914</size>
+      <link>http://www.smartviu.com/contents/pool/8/7/sha1-19940f187709ea1cbf798c3787f75e1bcb977987</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-scripts/brightsign.087c41eb.js</name>
+      <hash method="SHA1">fa1157d9899379991d7f989aa53bc7ef54c0fd50</hash>
+      <size>8971</size>
+      <link>http://www.smartviu.com/contents/pool/5/0/sha1-fa1157d9899379991d7f989aa53bc7ef54c0fd50</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-scripts/oldieshim.77f979db.js</name>
+      <hash method="SHA1">370f5dbee879aaad9c37b589193017530e074487</hash>
+      <size>90978</size>
+      <link>http://www.smartviu.com/contents/pool/8/7/sha1-370f5dbee879aaad9c37b589193017530e074487</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-scripts/vendor.93fc90a3.js</name>
+      <hash method="SHA1">1a7e3e7ff7c9ee0da3877f99173da34d18b7e4d7</hash>
+      <size>399973</size>
+      <link>http://www.smartviu.com/contents/pool/d/7/sha1-1a7e3e7ff7c9ee0da3877f99173da34d18b7e4d7</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-styles/brightsign.1ea7f101.css</name>
+      <hash method="SHA1">41989e9ff79dd7bd1b994cb389e754c934a38b47</hash>
+      <size>1977</size>
+      <link>http://www.smartviu.com/contents/pool/4/7/sha1-41989e9ff79dd7bd1b994cb389e754c934a38b47</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-styles/vendor.51dd7dba.css</name>
+      <hash method="SHA1">e0ed151874897979f4caadbdcf45f89075479bcb</hash>
+      <size>139555</size>
+      <link>http://www.smartviu.com/contents/pool/c/b/sha1-e0ed151874897979f4caadbdcf45f89075479bcb</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>autorun.brs</name>
+      <hash method="SHA1">39faee70c3c71993e00558f95194937ef9ed583d</hash>
+      <size>1105153</size>
+      <link>http://www.smartviu.com/contents/pool/3/d/sha1-39faee70c3c71993e00558f95194937ef9ed583d</link>
+      <group>script</group>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>autoschedule.xml</name>
+      <hash method="SHA1">bf70ffb9b0a18c3b94183587f941ab99e13c5b40</hash>
+      <size>988</size>
+      <link>http://www.smartviu.com/contents/pool/4/0/sha1-bf70ffb9b0a18c3b94183587f941ab99e13c5b40</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>resources.txt</name>
+      <hash method="SHA1">193580d94f79d91dbb99798f94e74a43ac0e79c1</hash>
+      <size>9999</size>
+      <link>http://www.smartviu.com/contents/pool/c/1/sha1-193580d94f79d91dbb99798f94e74a43ac0e79c1</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>autoplugins.brs</name>
+      <hash method="SHA1">a0acb3e77c85e48d397e809498b93f0395777410</hash>
+      <size>147</size>
+      <link>http://www.smartviu.com/contents/pool/1/0/sha1-a0acb3e77c85e48d397e809498b93f0395777410</link>
+      <group>script</group>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>_deviceWebPage.html</name>
+      <hash method="SHA1">f84cf1a0d4351bdc4c9079ebe8c91b1550da9979</hash>
+      <size>117305</size>
+      <link>http://www.smartviu.com/contents/pool/7/9/sha1-f84cf1a0d4351bdc4c9079ebe8c91b1550da9979</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>_deviceIdWebPage.html</name>
+      <hash method="SHA1">434f8878b3edca30e3bb0ca77e5049c8e83f0588</hash>
+      <size>117993</size>
+      <link>http://www.smartviu.com/contents/pool/8/8/sha1-434f8878b3edca30e3bb0ca77e5049c8e83f0588</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>featureMinRevs.xml</name>
+      <hash method="SHA1">7d38d9c59fc0834f7797fcf34e0909959da44481</hash>
+      <size>934</size>
+      <link>http://www.smartviu.com/contents/pool/8/1/sha1-7d38d9c59fc0834f7797fcf34e0909959da44481</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BoseProducts.xml</name>
+      <hash method="SHA1">5b7caa887439759a73ab434d13a5f7d95e795e9f</hash>
+      <size>13071</size>
+      <link>http://www.smartviu.com/contents/pool/9/f/sha1-5b7caa887439759a73ab434d13a5f7d95e795e9f</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <delete>
+      <pattern>*.brs</pattern>
+    </delete>
+    <delete>
+      <pattern>*.rok</pattern>
+    </delete>
+    <delete>
+      <pattern>*.bsfw</pattern>
+    </delete>
+    <ignore>
+      <pattern>*</pattern>
+    </ignore>
+  </files>
+</sync>

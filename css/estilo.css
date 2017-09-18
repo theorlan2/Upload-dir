@@ -1,0 +1,21 @@
+
+
+.progress_bar {
+    position: relative;
+    float: left;
+    width: 320px;
+    height: 10px;
+    background-color: #eee;
+    float: left;
+}
+
+.progress_bar div {
+position: relative;
+float: left;
+height: 10px;
+width: 0%;
+background-color: #e45;
+transition: width 375ms ease-in-out;
+}
+
+
