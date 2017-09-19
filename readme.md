@@ -26,9 +26,10 @@ $n = new UploaderDir("../uploads/device1");
 ```
 
 Las opciones pueden ser:
-```crearDirs(estructura,false)``` : Subir un directorio y subir solo el contenido y los Sub-directorios. 
+```crearDirs(estructura,false)``` : Subir un directorio y subir solo el contenido y los Sub-directorios.\n
+
 ```crearDirs(estructura,true)``` : Subir un directorio y Crearlo en la  Carpeta asignada con su contenido.
 
 El ejemplo actual esta por default con el directorio contenedor desactivado.
 
-***Nota: El ejemplo no contiene validacion de archivos,debe configurar el php.ini del servidor para que acepte archivos mayores de 1MB por Request.
+***Nota: El ejemplo no contiene validacion de archivos, debe configurar el php.ini del servidor para que acepte archivos mayores de 1MB por Request.
